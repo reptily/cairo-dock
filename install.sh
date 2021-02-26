@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo cp ./pack / -r
+sudo cp ./pack/* / -r
 
 echo "[Desktop Entry]
 Version=3.4.1
